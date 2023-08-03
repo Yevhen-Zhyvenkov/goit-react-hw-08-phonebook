@@ -1,0 +1,16 @@
+
+.list {
+    max-width: 600px;
+    margin: 0 auto 0;
+
+    background: #f69a73;
+    
+}
+.item{
+    padding: 15px;
+    display: flex;
+    gap:15px
+}
+.button{
+border-radius: 10px;
+}

@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+}
+
+.decor {
+    max-width: 600px;
+    margin: 0 auto 0;
+    background: #f69a73;
+}
+
+.form_inner {
+    padding: 50px;
+}
+
+.form_inner input{
+    display: block;
+    width: 100%;
+    padding: 0 20px;
+    margin-bottom: 10px;
+    background: #E9EFF6;
+    line-height: 40px;
+    border-width: 0;
+    border-radius: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+

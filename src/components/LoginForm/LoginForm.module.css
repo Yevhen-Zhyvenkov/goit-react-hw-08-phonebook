@@ -1,0 +1,48 @@
+
+* {
+    box-sizing: border-box;
+}
+
+.decor {
+    box-shadow: 0px 1px 2px 0px rgba(0, 255, 255, 0.7),
+            1px 2px 4px 0px rgba(0, 255, 255, 0.7),
+            2px 4px 8px 0px rgba(0, 255, 255, 0.7),
+            2px 4px 16px 0px rgba(0, 255, 255, 0.7);
+    max-width: 600px;
+    margin: 50px auto 0;
+    border-radius: 30px;
+    background: #2f1003;
+}
+.form_inner {
+    padding: 50px;
+}
+
+.form_inner input {
+    display: block;
+    width: 100%;
+    padding: 0 20px;
+    margin-bottom: 10px;
+    background: #E9EFF6;
+    line-height: 40px;
+    border-width: 0;
+    border-radius: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.form_inner button {
+    cursor: pointer;
+    margin-top: 30px;
+    border-bottom: 4px solid #d87d56;
+    color: black;
+    font-size: 20px;
+    display: block;
+    width: 100%;
+    padding: 0 20px;
+    margin-bottom: 10px;
+    background: #E9EFF6;
+    line-height: 40px;
+    border-width: 0;
+    border-radius: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+

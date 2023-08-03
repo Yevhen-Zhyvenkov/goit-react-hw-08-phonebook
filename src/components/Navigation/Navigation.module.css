@@ -1,0 +1,19 @@
+.header__link {
+    display: inline-block;
+    padding: 2px 10px;
+    color: #fff;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 500;
+}
+.header__link:hover,
+.header__link:focus {
+    color: chartreuse;
+    
+   
+   
+}
+
+.active {
+    color: rgb(56, 173, 43);
+}
